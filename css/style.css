@@ -12,7 +12,7 @@ body{
     color: #F6F6F6;
 }
 .cabecalho{
-    padding: 2% 0 0 15% ;
+    padding: 2% 0 0 20% ;
 }
 .cabecalho__menu{
     display: flex;
@@ -23,6 +23,7 @@ body{
     font-size: 24px;
     font-weight: 600px;
     color: #22D4FD;
+    text-decoration: none;
 }
 
 .titulo-destaque{
